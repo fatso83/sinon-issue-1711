@@ -1,0 +1,17 @@
+{
+  "name": "issue-1711",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r @std/esm ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@std/esm": "^0.23.3",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1",
+    "sinon": "^4.4.2"
+  }
+}
